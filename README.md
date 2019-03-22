@@ -1,1 +1,2 @@
-# Black-n-White
+#define DVAL 125
+#include<reg52.h>
