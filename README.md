@@ -3,11 +3,15 @@
 
 void isr_t1 () interrupt1 
 {
-  TH=
-  TL= 
+   /* Start the timer 1 for counting * /
+   
+   TH=
+   TL= 
   
 }
 
 void isr_sr () interrupt3
 {
+
+
 }
